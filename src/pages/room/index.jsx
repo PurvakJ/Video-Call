@@ -29,7 +29,7 @@ const RoomPage = () => {
                 sharedLinks: [
                     {
                         name: 'Copy Link',
-                        url: `http://localhost:3000/room/${roomId}`,
+                        url: `http://video-call-purvakjs-projects.vercel.app/${roomId}`,
                     }
                 ],
                 scenario: {
